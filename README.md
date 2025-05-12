@@ -47,4 +47,5 @@
 
 -   Expo 直下に移動
 -   npm start
+
     iOS、Androidno の各エミュレータを起動
