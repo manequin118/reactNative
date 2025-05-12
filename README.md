@@ -46,6 +46,7 @@
 ## サーバ手順
 
 -   Expo 直下に移動
+-   npm install
 -   npm start
 
     iOS、Androidno の各エミュレータを起動
